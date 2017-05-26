@@ -5,8 +5,8 @@
 String apiKey = "8H9EHVFCXM3QE3HG";
 
 // Replace with your Wifi ssid and password
-const char *ssid =  "TelstraC8F34B";
-const char *pass =  "0414938170";
+const char *ssid =  "InsertYourWIFInamehere";
+const char *pass =  "InsertYourPASSWORDhere";
  
 const char* server = "api.thingspeak.com";
 #define DHTPIN D4 // pin where the dht22 is connected
